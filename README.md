@@ -26,6 +26,7 @@ Product/UX: Personas, MVP, Agile, usability research
 
 📫 Let’s Connect!
 Feel free to check out my projects or reach out:
-LinkedIn | mnyovita516@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yovitamn-product/)
+ | mnyovita516@gmail.com
 
 
