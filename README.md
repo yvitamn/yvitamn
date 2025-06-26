@@ -1,17 +1,16 @@
 ## Hi there 👋
 
 
-I'm a product-focused backend developer with a background in Database & IT. 
-After running two small businesses, I returned to tech with hands-on experience in:
+I'm a product-focused backend developer with an IT background (majoring in Database). Over the last six months, I have gained hands-on experience through RevoU. In 2023, I also completed product-focused courses where I learned Product foundation. After running two small businesses, I returned to tech with hands-on experience in:
 
-Python, Flask & PostgreSQL
+⚙️ Python, Flask & PostgreSQL
 
-React, Next.js, Redux, and REST APIs
+⚙️ React, Next.js, Redux, and REST APIs
 
-System design, Supabase, and testing tools like Postman, Apidog
+⚙️ System design, Supabase, and testing tools like Postman, Apidog
 
 
-Recent projects include:
+Recent projects:
 🏦 RevoBank 
 - I built a Flask app with Supabase PostgreSQL, progressing from no Python knowledge to hands-on skills in API development and database management using SQLAlchemy, Alembic, Pipenv, and Postman.
 
@@ -27,7 +26,7 @@ Languages: Python, JavaScript, Typescript, HTML, CSS
 Backend: Flask, REST API, PostgreSQL, SQLAlchemy
 Frontend: React, Next.js, Redux
 Tools: Git, Pipenv, uv, Apidog, Postman, Supabase, Docker (learning), Figma (basic)
-Product/UX: Personas, MVP, Agile, usability research
+Product/UX: Personas, MVP, Agile, Product lifecycle management
 
 
 📫 Let’s Connect!
