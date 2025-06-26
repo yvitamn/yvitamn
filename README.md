@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**yvitamn/yvitamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a product-focused backend developer with a background in Database & IT. After running two small businesses, I returned to tech with hands-on experience in:
+Python, Flask & PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React, Next.js, Redux, and REST APIs
+
+System design, Supabase, and testing tools like Postman, Apidog
+
+Recent projects include:
+
+🏦 RevoBank – finance system prototype (Flask + Supabase)
+
+🥬 SayurLokal – product filtering & discovery features
+
+🌍 MariWisata – MVP planning based on user research
+
+
+⚒️ Tech Stack
+Languages: Python, JavaScript, Typescript, HTML, CSS
+Backend: Flask, REST API, PostgreSQL, SQLAlchemy
+Frontend: React, Next.js, Redux
+Tools: Git, Pipenv, uv, Apidog, Postman, Supabase, Docker (learning), Figma (basic)
+Product/UX: Personas, MVP, Agile, usability research
+
+📫 Let’s Connect!
+Feel free to check out my projects or reach out:
+LinkedIn | mnyovita516@gmail.com
+
+
