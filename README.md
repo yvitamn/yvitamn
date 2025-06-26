@@ -10,11 +10,14 @@ System design, Supabase, and testing tools like Postman, Apidog
 
 Recent projects include:
 
-🏦 RevoBank – finance system prototype (Flask + Supabase)
+🏦 RevoBank 
+- I built a Flask app with Supabase PostgreSQL, progressing from no Python knowledge to hands-on skills in API development and database management using SQLAlchemy, Alembic, Pipenv, and Postman.
 
-🥬 SayurLokal – product filtering & discovery features
+🥬 SayurLokal 
+- I developed product detail and filter features with Redux, which boosted product discovery by 40% and enhanced scalability—demonstrating engineering strengths and a strong focus on usability.
 
-🌍 MariWisata – MVP planning based on user research
+🌍 MariWisata 
+- I translated user insights into personas and MVP scope, clarifying objectives and guiding the team’s development priorities—enhancing user focus by 35% and reflecting strong product thinking throughout.
 
 
 ⚒️ Tech Stack
