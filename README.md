@@ -11,6 +11,7 @@ I'm a product-focused backend developer with an IT background (majoring in Datab
 
 
 Recent projects:
+
 🏦 RevoBank 
 - I built a Flask app with Supabase PostgreSQL, progressing from no Python knowledge to hands-on skills in API development and database management using SQLAlchemy, Alembic, Pipenv, and Postman.
 
